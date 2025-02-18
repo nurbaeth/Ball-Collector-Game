@@ -13,7 +13,7 @@ This is a simple and fun ball collecting game made with Python and Pygame. The g
 2. Collect the green items that appear on the screen to increase your score.
 3. Avoid obstacles (if any) that might appear as the game progresses.
 4. The game will display your score in the top left corner. 
-
+ 
 ### Example Game Flow:
 
 
