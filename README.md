@@ -24,7 +24,7 @@ This is a simple and fun ball collecting game made with Python and Pygame. The g
 
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+ 
 Contributions:
 Feel free to fork the repository and submit pull requests. If you have ideas for new features or improvements, let me know!
 
