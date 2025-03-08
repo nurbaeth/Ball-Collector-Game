@@ -14,7 +14,7 @@ This is a simple and fun ball collecting game made with Python and Pygame. The g
 3. Avoid obstacles (if any) that might appear as the game progresses. 
 4. The game will display your score in the top left corner. 
     
-### Example Game Flow:      
+### Example Game Flow:       
        
 
 
