@@ -16,7 +16,7 @@ This is a simple and fun ball collecting game made with Python and Pygame. The g
     
 ### Example Game Flow:       
          
-
+ 
 
 
 
